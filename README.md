@@ -35,7 +35,14 @@ Download the dataset and extract `spam.csv` before running the notebook.
 - NLTK
 - Scikit-learn
 - WordCloud
+## Libraries
 
+- Pandas - Reading data
+-  Numpy - Numerical Operation
+-  Matplotlib - graph
+-  Seaborn - Statical zisual
+-  WordCloud - Priotizing word Visual representation
+-  Scikit-learn - Machine Learning model
 ## Methodology
 
 1. Load and inspect the dataset.
