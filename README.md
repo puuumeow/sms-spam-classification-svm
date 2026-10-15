@@ -68,7 +68,7 @@ The main objectives of this project are to:
 
 **Dataset:** SMS Spam Collection Dataset
 
-**Source:** [UCI Machine Learning Repository — SMS Spam Collection]( https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download)
+**Source:** [kaggle  — SMS Spam Collection]( https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download)
 
 The dataset contains SMS messages labeled as either spam or ham.
 
